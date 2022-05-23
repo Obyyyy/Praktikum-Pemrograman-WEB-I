@@ -1,0 +1,14 @@
+body {
+    background: yellow url("motif.jpeg");
+    margin: 10px auto;
+    width: 750px;
+}
+
+header {
+    display: block;
+    border: 1px solid blue;
+}
+
+header {
+    height: 120px;
+}
